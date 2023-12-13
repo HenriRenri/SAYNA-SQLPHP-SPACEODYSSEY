@@ -4,7 +4,7 @@
     const BASE_URL = 'http://localhost/SAYNA/Evaluation/-SAYNA-SQLPHP-SPACEODYSSEY/';
 
 
-    require_once "Models/Autoload.php" ;
+    require_once "Models/Autoload.php";
 
 
 		Initialisation::loadView("Register");
